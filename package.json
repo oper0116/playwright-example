@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "playwrite-test": "yarn playwright test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/oper0116/playwrite-example.git"
