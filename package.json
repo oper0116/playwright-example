@@ -1,0 +1,20 @@
+{
+  "name": "playwrite-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oper0116/playwrite-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oper0116/playwrite-example/issues"
+  },
+  "homepage": "https://github.com/oper0116/playwrite-example#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
